@@ -1,0 +1,39 @@
+GOOGLE FORM SUBMISSION CHECKLIST
+
+PROJECT TITLE
+Automatic Document Scanner Using Image Processing
+
+TEAM MEMBER 1
+Name: Shivam Paliwal
+Enrollment No.: 2305101270430
+Course: BCA (H)
+Semester: 7th Semester
+Division: A
+Subject: Advanced Image Processing
+
+DEFINITION
+Automatic Document Scanner is an image-processing application that detects a document in a photograph, corrects its perspective and enhances the page to produce a clean scanner-like output.
+
+GITHUB
+Create a PUBLIC repository and upload:
+- source_code/document_scanner.py
+- README.md
+- requirements.txt
+- sample_input/
+- output/
+- screenshots/
+- documentation/
+
+GOOGLE FORM
+- Enter team member details.
+- Select BCA (H).
+- Select Division A.
+- Enter the project definition.
+- Paste the PUBLIC GitHub repository URL.
+- Upload documentation/Automatic_Document_Scanner_Project_Report.pdf.
+- Submit.
+
+The Google Form shown in the faculty mail accepts one PDF report with a maximum size of 10 MB.
+
+PEN DRIVE
+If faculty asks for the complete project on a pen drive, copy the complete project folder with source code and supporting files.
